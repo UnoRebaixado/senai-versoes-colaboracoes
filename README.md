@@ -14,7 +14,7 @@ COMANDO UTILIZADOS:
 
 6-Git show número-do-commit - ajuda a ver qualquer mudança em qualquer commit.
 
-7-git remote add origin git@github.com:UnoRebaixado/senai-versoes-colaboracoes.git - utilizei para realizar a ligação entre meu repositório local e o remoto.
+7-git remote add origin git@github.com/UnoRebaixado/senai-versoes-colaboracoes.git - utilizei para realizar a ligação entre meu repositório local e o remoto.
 
 8-Git remote -v - para ver o repositório remoto.
 
